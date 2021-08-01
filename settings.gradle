@@ -1,0 +1,3 @@
+rootProject.name = 'qt'
+include 'main'
+

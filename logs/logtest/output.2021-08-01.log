@@ -1,0 +1,8 @@
+2021-08-01  22:01:21.694 [main] INFO  framework.Main - status:0
+2021-08-01  22:01:21.698 [main] INFO  framework.Main - end!
+2021-08-01  22:01:27.213 [main] INFO  framework.D02_Log_SLF4J - sjli use slf4j.
+2021-08-01  22:01:27.215 [main] DEBUG framework.D02_Log_SLF4J - =====测试日志debug级别打印====
+2021-08-01  22:01:27.215 [main] INFO  framework.D02_Log_SLF4J - ======测试日志info级别打印=====
+2021-08-01  22:01:27.215 [main] ERROR framework.D02_Log_SLF4J - =====测试日志error级别打印====
+2021-08-01  22:01:27.215 [main] WARN  framework.D02_Log_SLF4J - ======测试日志warn级别打印=====
+2021-08-01  22:01:27.216 [main] INFO  framework.D02_Log_SLF4J - ======这是用占位符输出的日�?

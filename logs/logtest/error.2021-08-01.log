@@ -1,0 +1,2 @@
+2021-08-01  22:01:27.215 [main] ERROR framework.D02_Log_SLF4J - =====测试日志error级别打印====
+2021-08-01  22:01:27.215 [main] WARN  framework.D02_Log_SLF4J - ======测试日志warn级别打印=====
